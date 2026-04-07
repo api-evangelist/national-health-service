@@ -1,9 +1,8 @@
 aid: national-health-service
 name: National Health Service
 description: >-
-  Use this API to submit ambulance data to our Data Processing Service (DPS) so
-  that it can be made available for analysis and review by NHS England and
-  ambulance trusts. 
+  Use this API to submit ambulance data to our Data Processing Service (DPS) so that
+  it can be made available for analysis and review by NHS England and ambulance trusts.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -19,9 +18,9 @@ apis:
   - aid: national-health-service:national-health-service
     name: National Health Service
     description: >-
-      Use this API to submit ambulance data to our Data Processing Service (DPS)
-      so that it can be made available for analysis and review by NHS England
-      and ambulance trusts. 
+      Use this API to submit ambulance data to our Data Processing Service (DPS) so
+      that it can be made available for analysis and review by NHS England and ambulance
+      trusts.
     humanURL: ' https://digital.nhs.uk/developer/api-catalogue/ambulance-data-submission-fhir'
     tags:
       - API
