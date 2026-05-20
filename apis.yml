@@ -38,6 +38,8 @@ apis:
       - type: Portal
         url: https://digital.nhs.uk/developer
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/nhs
   - type: Website
     url: https://www.nhs.uk/
   - type: Portal
