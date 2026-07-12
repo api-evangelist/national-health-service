@@ -38,6 +38,10 @@ apis:
       - type: Portal
         url: https://digital.nhs.uk/developer
 common:
+  - type: VulnerabilityDisclosure
+    url: security/national-health-service-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/national-health-service-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/nhs
   - type: Website
