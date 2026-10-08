@@ -61,6 +61,12 @@ apis:
       - type: Portal
         url: https://digital.nhs.uk/developer
 common:
+  - type: Plans
+    url: plans/national-health-service-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/national-health-service-rate-limits.yml
+  - type: FinOps
+    url: finops/national-health-service-finops.yml
   - type: VulnerabilityDisclosure
     url: security/national-health-service-vulnerability-disclosure.yml
   - type: DomainSecurity
